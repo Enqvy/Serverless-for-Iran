@@ -43,4 +43,4 @@ https://t.me/patterniha
 
 # حمایت
 
-USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o
+`USDT (BEP20)`: 0x76a768B53Ca77B43086946315f0BDF21156bF424
